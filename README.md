@@ -1,18 +1,6 @@
 # VPViewer
 ## Building the Extension
 
-1. **Install dependencies** (if not already done): 2. **Compile the TypeScript code**: Great! The build was successful. Now let's install the VS Code Extension CLI tool to package and install the extension.
-
-## Installing VSCE (VS Code Extension CLI) ## Packaging the Extension Perfect! The extension has been successfully packaged. Now let's install it in VS Code.
-
-## Installing the Extension Despite the fatal error at the end (which appears to be a Node.js issue unrelated to the extension installation), the extension was successfully installed. Let me verify this: Excellent! The extension is successfully installed.
-
-## Summary
-
-Here's the complete process to build and install your VS Code extension:
-
-### **Building the Extension:**
-
 1. **Install dependencies:**
    ```powershell
    npm install
